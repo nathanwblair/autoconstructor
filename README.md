@@ -17,8 +17,8 @@ class A {
 ```
   
 
-### Create instance of struct A 
-* Init struct A 
+### Create instance of class A 
+* Init class A 
 ```cpp
 int a = -1;
 int b = 1;
