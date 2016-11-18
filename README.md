@@ -5,7 +5,8 @@ C++ Helper Function to Instantiate Classes like Tuples: the values of members as
 
 ### Define a type (CLASS *or* STRUCT)
 ```cpp
-struct A {
+class A {
+public:
   int i;
   int j;
 };
